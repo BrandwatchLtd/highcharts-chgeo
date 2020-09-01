@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/highcharts-chgeo/precache-manifest.f90fde42f28c60fc84f49f6b5dd15561.js"
+  "/highcharts-chgeo/precache-manifest.e7625ec2122e8603a55d6bc8219c223b.js"
 );
 
 self.addEventListener('message', (event) => {
