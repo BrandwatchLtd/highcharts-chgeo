@@ -2,6 +2,8 @@ This project provides a basic test case showing how Highcharts renders different
 
 For comparison it also renders the sets with D3.
 
+The output of this project is hosted on GitHub Pages here: https://brandwatchltd.github.io/highcharts-chgeo/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -54,7 +54,7 @@ function App() {
     <div>
       <h1>Highcharts Custom Geo Example</h1>
     
-      <h2>Higcharts World Geo</h2>
+      <h2>Highcharts World Geo</h2>
       <HighchartsReact
         highcharts={Highcharts}
         constructorType={'mapChart'}
